@@ -11,6 +11,7 @@ I solved Binary Search Tree question in this project [Thanks to](https://patika.
 
 ```mermaid
 graph TD;
+    *-->7;
     7-->5;            
     7-->8;
     8-->9;
@@ -23,7 +24,7 @@ graph TD;
 ```
 
 
-***First number 7 is chosen as root.***
+*** 7 is chosen as root.***
  
 1) 5 on the left, 8 on the right.
 2) 5 has 1 to its left and 6 to its right.
