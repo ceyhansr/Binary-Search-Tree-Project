@@ -11,7 +11,6 @@ I solved Binary Search Tree question in this project [Thanks to](https://patika.
 
 ```mermaid
 graph TD;
-    *-->7;
     7-->5;Root            
     7-->8;
     8-->9;
