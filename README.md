@@ -25,9 +25,9 @@ graph TD;
 
 ***First number 7 is chosen as root.***
  
-> 5 on the left, 8 on the right.
-> 5 has 1 to its left and 6 to its right.
-> 1 has 0 to the left and 3 to the right.
-> 3 has 2 to the left and 4 to the right.
-> 8 is 9 to the right.
+1) 5 on the left, 8 on the right.
+2) 5 has 1 to its left and 6 to its right.
+3) 1 has 0 to the left and 3 to the right.
+4) 3 has 2 to the left and 4 to the right.
+5) 8 is 9 to the right.
 
